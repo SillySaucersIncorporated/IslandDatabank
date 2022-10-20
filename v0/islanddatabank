@@ -1,0 +1,23 @@
+{
+  "global": {
+    "titles": {
+      "gameOver": "Game Over"
+    },
+    "subtitles": {
+      "win": "1st Place!"
+    }
+  },
+  "hitw": {
+    "titles": {
+      "eliminated": "Eliminated"
+    },
+    "chatStrings": {
+      "wallDifficultyIncrease": "[.] Wall difficulty increased!"
+    }
+  },
+  "skybattle": {
+    "titles": {
+      "eliminated": "Eliminated"
+    }
+  }
+}
